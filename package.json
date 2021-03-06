@@ -1,0 +1,19 @@
+{
+  "name": "location_api",
+  "version": "1.0.0",
+  "description": "Api to consome google map api",
+  "main": "index.js",
+  "scripts": {
+    "test": "Nothing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FernandoMuto/location_api.git"
+  },
+  "author": "Fernando Muto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FernandoMuto/location_api/issues"
+  },
+  "homepage": "https://github.com/FernandoMuto/location_api#readme"
+}
